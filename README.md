@@ -1,4 +1,4 @@
 # PersonalCard
 SwiftUI PersonalCard
 
-![Alt text](/Screenshot.png/?raw=true "Optional Title")
+![Alt text](/Screen.png/?raw=true "Optional Title")
